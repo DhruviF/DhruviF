@@ -2,11 +2,12 @@
 
 My name is Dhruvi and I am a third-year studying Computer Science at the University of California, Riverside. I am a dedicated and focused student committed to delivering high-quality work and have prior technical and leadership experience. I am looking for new opportunities to learn and would like to leverage my skills in an engineering internship role for summer 2022.
 
-Please feel free to reach out to me at dfari011@ucr.edu!
-
+📫 Please feel free to reach out to me at **dfari011@ucr.edu**!
 
 <!--
 **DhruviF/DhruviF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Connect with me on <a href="https://linkedin.com/in/dhruvifaria" target="blank">LinkedIn</a>!
 
 Here are some ideas to get you started:
 
