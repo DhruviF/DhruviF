@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Dhruvi and I am a third-year studying Computer Science at the University of California, Riverside. I am a dedicated and focused student committed to delivering high-quality work and have prior technical and leadership experience. I am looking for new opportunities to learn and would like to leverage my skills in an engineering internship role for summer 2022.
+My name is Dhruvi and I am a fourth-year studying Computer Science at the University of California, Riverside. I am a dedicated and focused student committed to delivering high-quality work and have prior technical and leadership experience. I am looking for new opportunities to learn and would like to leverage my skills in a software engineering role for summer 2023.
 
 📫 Please feel free to reach out to me at **dfari011@ucr.edu**!
 
